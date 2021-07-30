@@ -2393,9 +2393,10 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-expo@~27.0.2:
-  version "27.0.2"
-  resolved "https://registry.yarnpkg.com/expo/-/expo-27.0.2.tgz#1ae86d71f8e66fdc6783f7393354671e8197b7ef"
+expo@~27.1.1:
+  version "27.1.1"
+  resolved "https://registry.yarnpkg.com/expo/-/expo-27.1.1.tgz#d1eabfb86a9799d0cfd8defab60d3f2dfc05b035"
+  integrity sha512-JJmIIbRcHXLzlRVB5ZaN7Lj6JOiveZ11GvVAhZ8ERYZkBArT7wlzIOvCmqUAJ59SEyI9WpA/EK08SavEx+1DYw==
   dependencies:
     "@expo/vector-icons" "^6.3.1"
     "@expo/websql" "^1.0.1"
